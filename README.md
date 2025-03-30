@@ -1,6 +1,5 @@
 # EKS-Terraform
 # This is Terraform configuration file to crate Terraform cluster on AWS.
-# To use this terraform script to cluster provistioning on AWS cloud.
 
 # Terraform AWS Cluster
 
