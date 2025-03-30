@@ -23,8 +23,8 @@ Appropriate IAM permissions to create AWS resources
 
 Clone this repository:
 
-git clone https://github.com/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Suraj19097/-EKS-Terraform.git
+cd -EKS-Terraform
 
 Initialize Terraform:
 
@@ -36,7 +36,7 @@ terraform plan
 
 Apply the configuration:
 
-terraform apply -auto-approve
+terraform apply 
 
 Cleanup
 
